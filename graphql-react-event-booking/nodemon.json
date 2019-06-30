@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "graphjd",
+    "MONGO_PASSWORD": "hg76lsi7237",
+    "MONGO_DB": "events-react-dev"
+  }
+}

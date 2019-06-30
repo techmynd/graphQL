@@ -1,0 +1,7 @@
+> yarn start
+> yarn start-dev
+
+http://localhost:3000
+
+http://localhost:3000/graphql
+/graphql is api end point
